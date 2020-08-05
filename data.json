@@ -1,1 +1,18 @@
-{"avatar_url":"http://google.com","name":"Murdoque","birth":"1800-09-05","gender":"F","services":"casa, correr, isso"}
+{
+  "instructors": [
+    {
+      "avatar_url": "http://google.com",
+      "name": "Murdoque",
+      "birth": "2000-03-05",
+      "gender": "M",
+      "services": "casa, seculo "
+    },
+    {
+      "avatar_url": "http://opa.com",
+      "name": "adf",
+      "birth": "2055-02-05",
+      "gender": "F",
+      "services": "dassadsa, asd"
+    }
+  ]
+}
